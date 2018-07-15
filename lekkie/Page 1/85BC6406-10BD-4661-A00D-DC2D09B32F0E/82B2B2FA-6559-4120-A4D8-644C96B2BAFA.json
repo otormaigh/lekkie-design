@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-SemiBold",
+              "name": "LibreFranklin-SemiBold",
               "size": 144
             }
           },
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 175,
-    "width": 522,
-    "x": 344,
+    "height": 174,
+    "width": 498,
+    "x": 356,
     "y": 162
   },
-  "glyphBounds": "{{13, 27}, {498, 114}}",
+  "glyphBounds": "{{11, 32}, {477, 109}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -103,7 +103,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-SemiBold",
+            "name": "LibreFranklin-SemiBold",
             "size": 144
           }
         },

@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "B28EEE49-83E1-4371-9489-481A791778FC",
+  "do_objectID": "58A58587-32BC-4026-9436-1384281BA7E3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 100,
-    "width": 54,
-    "x": 214,
-    "y": 76
+    "height": 350.3546999586835,
+    "width": 184.073544145415,
+    "x": 164,
+    "y": 81
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -31,12 +31,12 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "7BC883F7-79D4-4048-B91A-A7521198AE9E"
+      "id": "21C5F71A-A0C1-418F-87B6-3F83DB2E6534"
     }
   ],
   "name": "Combined Shape Copy",
   "nameIsFixed": false,
-  "resizingConstraint": 59,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -63,7 +63,7 @@
         "fillType": 0,
         "isEnabled": true,
         "position": 0,
-        "thickness": 4
+        "thickness": 8
       }
     ],
     "endMarkerType": 0,

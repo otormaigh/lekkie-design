@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
+            "alpha": 0.87,
             "blue": 0,
             "green": 0,
             "red": 0
@@ -16,40 +16,32 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "LibreFranklin-SemiBold",
-              "size": 94
+              "name": "LibreFranklin-Regular",
+              "size": 16
             }
           },
-          "kerning": 3.615385,
+          "kerning": 0.1504769,
+          "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
         },
-        "length": 6,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Lekkie"
+    "string": "Planned"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
-  "do_objectID": "4F72E46F-DBA1-454E-B4FA-AD591416D00C",
+  "booleanOperation": -1,
+  "do_objectID": "76CCB5AD-BC00-43AD-AC00-98E0FF6D0E42",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -59,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 114,
-    "width": 526,
-    "x": 284,
-    "y": 68
+    "height": 24,
+    "width": 63,
+    "x": 16,
+    "y": 52
   },
-  "glyphBounds": "{{108, 21}, {311, 71}}",
+  "glyphBounds": "{{1, 6}, {60, 13}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -72,39 +64,24 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Lekkie",
-  "nameIsFixed": false,
+  "name": "Type",
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 0,
-        "thickness": 0.5
-      }
-    ],
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "0A477F99-F080-4C2F-BDFE-B3473CE2D73D",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.87,
           "blue": 0,
           "green": 0,
           "red": 0
@@ -112,21 +89,22 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "LibreFranklin-SemiBold",
-            "size": 94
+            "name": "LibreFranklin-Regular",
+            "size": 16
           }
         },
-        "kerning": 3.615385,
+        "kerning": 0.1504769,
+        "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

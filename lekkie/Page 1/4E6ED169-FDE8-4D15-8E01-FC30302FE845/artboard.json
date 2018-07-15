@@ -3,24 +3,15 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.3686274509803922,
-    "green": 0.415686274509804,
-    "red": 0.9686274509803922
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
-  "booleanOperation": 0,
-  "do_objectID": "2EDE5FDC-7990-4243-BE06-0E28687D8EEE",
+  "booleanOperation": -1,
+  "do_objectID": "4E6ED169-FDE8-4D15-8E01-FC30302FE845",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "svg",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -30,22 +21,22 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 512,
-    "width": 512,
-    "x": 512,
-    "y": 2708
+    "height": 720,
+    "width": 360,
+    "x": 588,
+    "y": 5619
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      85,
-      427
+      16,
+      344
     ]
   },
-  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -56,16 +47,27 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "58A58587-32BC-4026-9436-1384281BA7E3"
+      "class": "symbolInstance",
+      "id": "42615016-C7C5-4A87-8C58-AA7C938943F7"
     },
     {
-      "class": "shapeGroup",
-      "id": "C421E4FA-9E5A-4DDE-8028-FDA15B1C6830"
+      "class": "symbolInstance",
+      "id": "422BC687-DC14-4A31-B403-81EEDBF71C85"
+    },
+    {
+      "class": "group",
+      "id": "5CED9B14-1BBC-433E-91F7-EED209CBD306"
     }
   ],
-  "name": "ic_launcher_dark copy 2",
+  "name": "1. Outage list",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 720,
+    "name": "Pixel 2 XL",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,8 +84,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      85,
-      427
+      40
     ]
   }
 }
